@@ -6,7 +6,7 @@
 * Custom XML-defined scenarios
 * Statistics generation
 * Control channel
-* RTP echo
+sahil siwatch
 * PCAP playback
 
 The tool was originally developed by Hewlett-Packard, now is maintained by an OSS community on Github
